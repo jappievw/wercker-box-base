@@ -1,6 +1,6 @@
 FROM debian:stable-slim
 
-LABEL org.label-schema.name="wercker-base-box" \
+LABEL org.label-schema.name="wercker-box-base" \
       org.label-schema.description="General purpose debian based base box for Wercker pipelines with extra tools." \
       org.label-schema.url="https://github.com/jappievw/wercker-box-base" \
       org.label-schema.org.vcs-url="https://github.com/jappievw/wercker-box-base" \
